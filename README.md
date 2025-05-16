@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UX design**
 
-- 💬 Ask me about **django, svelte**
+- 💬 Ask me about **django, react, node and more**
 
 - 📫 How to reach me **hiramcornejo10@gmail.com**
 
